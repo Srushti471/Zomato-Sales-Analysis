@@ -1,5 +1,9 @@
 # Zomato-Sales-Analysis
 Zomato Sales Analysiss
+
+![image]![zomato 2](https://github.com/user-attachments/assets/d443cc4e-3224-4b9b-831a-c1cf922af343)
+
+
 <H3> 1. Introduction </H3>
 <p>Zomato, a global restaurant discovery and food delivery platform, has become one of the most prominent names in the digital marketing space for food services. The objective of this analysis is to provide insights into restaurant performance, customer preferences, and trends based on various key performance indicators (KPIs). The data spans different countries, cuisines, and pricing categories, helping Zomato enhance its operations and better cater to both restaurants and users.</p>
 
@@ -28,7 +32,11 @@ Zomato Sales Analysiss
  -  Booking patterns: online vs. table bookings.
  -  Restaurant opening trends over time.
 
-<H3>4. Analysis</H3>
+<H3>4. Dashboard Analysis</H3>
+
+
+
+
 <H4>Global Restaurant Distribution and Rating</H4>
  
  - Total Restaurants: India dominates with 8.7K restaurants, followed by the United States with 400 restaurants. Other countries like Brazil, United Kingdom, and South Africa show minor representation.
