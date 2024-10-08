@@ -33,23 +33,21 @@ Zomato Sales Analysiss
  -  Restaurant opening trends over time.
 
 <H3>4. Dashboard Analysis</H3>
-
-![Screenshot (61)](https://github.com/user-attachments/assets/5448f59d-4485-4412-8d19-e946214c8067)
-
-
-
-<H4>Global Restaurant Distribution and Rating</H4>
+<H4>DASHBOARD 1 : Global Restaurant Distribution and Rating</H4>
  
  - Total Restaurants: India dominates with 8.7K restaurants, followed by the United States with 400 restaurants. Other countries like Brazil, United Kingdom, and South Africa show minor representation.
  - Restaurant Ratings: Most restaurants are rated between 1K and 5K, indicating a wide variation in customer experiences across regions.
  - Booking Preferences: 87.8% of the total bookings are made online, while 12.12% opt for table bookings, reflecting the growing trend of online reservations.
  - Average Pricing: The cost for two people varies by city, with some cities in India and the UAE showing higher price ranges.
+ ![Screenshot (61)](https://github.com/user-attachments/assets/5448f59d-4485-4412-8d19-e946214c8067)
 
-<H4>Price, Cuisine, and Restaurant Opening Trends</H4>
+<H4>DASHBOARD 2 :P rice, Cuisine, and Restaurant Opening Trends</H4>
  
  - Price Buckets: The majority (6.1K) of restaurants fall within the price range of 0-250 for two people, while only a small fraction exceed 701, suggesting Zomato’s major user base prefers affordable dining options.
  - Cuisine Preferences: Italian (42.15%) and Asian cuisines (25.69%) are the most popular, followed by Indonesian, Sushi, and North Indian options. This highlights Zomato’s diverse offerings that cater to a wide range of tastes.
  - Restaurant Openings: There has been a consistent fluctuation in restaurant openings, with a dip in 2016 but a strong recovery in 2018, indicating market dynamics and possibly external factors affecting the industry during those years.
+![Screenshot (62)](https://github.com/user-attachments/assets/59b1d5d0-45cc-4d5f-9d47-7074756640c4)
+
 
 <H3>5. Recommendations and Highlights</H3>
 
