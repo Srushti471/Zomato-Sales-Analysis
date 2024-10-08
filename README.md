@@ -34,6 +34,7 @@ Zomato Sales Analysiss
 
 <H3>4. Dashboard Analysis</H3>
 
+![Screenshot (61)](https://github.com/user-attachments/assets/5448f59d-4485-4412-8d19-e946214c8067)
 
 
 
